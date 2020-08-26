@@ -41,34 +41,10 @@
 }
 
 #rocket:hover {
-  background-position: 50% -44px;
-}
-
-#rocket:hover i {
-  background-position: 50% 100%;
-  -webkit-animation: flaming 0.7s infinite;
-  -moz-animation: flaming 0.7s infinite;
-  animation: flaming 0.7s infinite;
+  background-position: 50% -50px;
 }
 
 #rocket.show {
   visibility: visible;
   opacity: 1;
 }
-
-/* #rocket.launch {
-  background-position: 50% -44px;
-  opacity: 0;
-  -webkit-transform: translateY(-500px);
-  -moz-transform: translateY(-500px);
-  -ms-transform: translateY(-500px);
-  transform: translateY(-500px);
-  pointer-events: none;
-} */
-
-/* #rocket.launch i {
-  background-position: 50% 100%;
-  -webkit-transform: scale(1.4, 3.2);
-  -moz-transform: scale(1.4, 3.2);
-  transform: scale(1.4, 3.2);
-} */
