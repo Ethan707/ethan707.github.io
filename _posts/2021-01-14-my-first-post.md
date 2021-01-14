@@ -5,7 +5,7 @@ subtitle: "\" Hello world \""
 author: "Ethan"
 date: 2021-1-14 12:00:00
 header-img: "img/post-bg-2015.jpg"
-header-style: text
+# header-style: text
 tags:
   - Life
 ---
