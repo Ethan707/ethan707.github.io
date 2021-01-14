@@ -24,6 +24,7 @@ But the biggest problem is when I could no longer feel excited, I will quit it h
 I hope I can develop the habit of sticking to something. Thus, I build this blog.
 
 > Naughty boy: I afraid you will forget this blog very soon 😒
+> 
 > Me: Shut up !!!
 
 In fact, I tried to build this blog several months age. But I felt too difficult at that time (Actually not). So, I just made a semi-finished product at that time. Now I am back to finish it and make it better.
