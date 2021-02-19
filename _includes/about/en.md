@@ -13,7 +13,7 @@ Hope you enjoy reading, thank you 😉
 Contact with me:
 
 * [Linkedin](https://www.linkedin.com/in/yuxichen7890/)
-* [GitHub](https://github.com/Ethylene000)
-* Email
+* [GitHub](https://github.com/Ethan707)
+* [Email](mailto:yuxi11@ualberta.ca)
 
-You can also click [here]() to see my resume
+You can also click [here](https://ethan404.ml/resume-zh/) to see my resume

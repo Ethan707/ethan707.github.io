@@ -3,7 +3,7 @@ layout: post
 title: "Captcha Recognition Models Comparison (1)"
 subtitle: "Welcome to ML"
 author: "Ethan"
-date: 2021-1-31 12:00:00
+date: 2021-1-31
 header-img: "img/post-bg-unix-linux.jpg"
 # header-style: text
 tags:

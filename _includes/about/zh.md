@@ -13,7 +13,7 @@ Hi，我是Ethan，一个对计算机充满兴趣的大学生。
 和我联系：
 
 * [Linkedin](https://www.linkedin.com/in/yuxichen7890/)
-* [GitHub](https://github.com/Ethylene000)
-* Email
+* [GitHub](https://github.com/Ethan707)
+* [Email](mailto:yuxi11@ualberta.ca)
 
-也可以在[这里]()查看我的简历
+也可以在[这里](https://ethan404.ml/resume-zh/)查看我的简历
