@@ -1,6 +1,6 @@
 # Site settings
 title: Ethan Blog
-SEOTitle: Ethan Blog | Ethan的博客
+SEOTitle: Ethan
 header-img: img/home-bg.jpg
 description: "My personal blog"
 keyword: "Ethan Chen, Python, Blog"
@@ -58,7 +58,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-# disqus_username: disqus_o37YPrzSYi
+# disqus_username:
 
 # Netease settings
 # netease_comment: false
@@ -73,7 +73,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "Reading and Life"
+sidebar-about-description: "To make each day count."
 sidebar-avatar: /img/avatar-Ethan.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -87,12 +87,8 @@ service-worker: true
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 # Friends
-friends: [
-    {
-      #     title: "Su",
-      #     href: "http://su.gallery/"
-      # },{
-      title: "Robert Blog",
-      href: "https://www.robertj1.com/",
-    },
+friends:
+  [
+    { title: "Xinyue Xiang", href: "http://xiangxinyue.com/" },
+    { title: "Robert", href: "https://www.robertj1.com/" },
   ]
