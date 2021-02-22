@@ -68,8 +68,8 @@ disqus_username: Ethan707
 # ba_track_id: [your track id]
 
 # Google Analytics
-# ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-# ga_domain: huangxuan.me
+ga_track_id: "UA-190284012-1" # Format: UA-xxxxxx-xx
+ga_domain: auto
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
