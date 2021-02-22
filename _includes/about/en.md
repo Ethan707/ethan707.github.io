@@ -16,4 +16,4 @@ Contact with me:
 * [GitHub](https://github.com/Ethan707)
 * [Email](mailto:yuxi11@ualberta.ca)
 
-You can also click [here](https://ethan404.ml/resume/) to see my resume
+<!-- You can also click [here](https://ethan404.ml/resume/) to see my resume -->
