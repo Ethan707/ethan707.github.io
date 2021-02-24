@@ -6,6 +6,7 @@ author: "Ethan"
 date: 2021-1-14
 header-img: "img/post-bg-2015.jpg"
 # header-style: text
+top: true
 tags:
   - Life
 ---

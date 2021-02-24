@@ -2,8 +2,40 @@
 layout: page
 description: "「0 error(s), 0 warning(s)」"
 ---
-
+<!-- for the top posts -->
 {% for post in paginator.posts %}
+{% if post.top %}
+<div class="post-preview">
+  <a href="{{ post.url | prepend: site.baseurl }}">
+    <h2 class="post-title">[TOP]
+      {{ post.title }}
+    </h2>
+    {% if post.subtitle %}
+    <h3 class="post-subtitle">
+      {{ post.subtitle }}
+    </h3>
+    {% endif %}
+    <div class="post-content-preview">
+      {% if post.lang == 'en' %}
+      {{ post.content | strip_html | truncate:300 }}
+      {% else %}
+      {{ post.content | strip_html | truncate:200 }}
+      {% endif %}
+    </div>
+  </a>
+  <p class="post-meta">
+    Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B
+    %-d, %Y" }}
+  </p>
+</div>
+<hr>
+{% endif %}
+{% endfor %}
+
+<!-- for the other posts -->
+{% for post in paginator.posts %}
+{% if post.top %}
+{%else%}
 <div class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl }}">
     <h2 class="post-title">
@@ -28,6 +60,7 @@ description: "「0 error(s), 0 warning(s)」"
   </p>
 </div>
 <hr>
+{% endif %}
 {% endfor %}
 
 <!-- Pager -->
